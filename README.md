@@ -7,7 +7,7 @@ tst.ch8, coinflip.ch8, connect4.ch8, and tetris.ch8
 ![test_instructions](https://github.com/user-attachments/assets/3de20852-0a2e-45b2-82b7-dd73641e88b0)  
 The instructions tested were:
 ```
-3XNN    00EE	8XY5
+3XNN  00EE  8XY5
 4XNN	8XY0	8XY6
 5XY0	8XY1	8XYE
 7XNN	8XY2	FX55
